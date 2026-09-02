@@ -85,12 +85,6 @@ Shows the distribution of employees across different work-life balance ratings.
 
 ---
 
-## 📷 Dashboard Preview
-
-![HR Analytics Dashboard](screenshots/HR_Analytics_Dashboard.png)
-
----
-
 ## 📂 Project Files
 
 - `HR Analytics Dashboard.pbix` – Power BI dashboard file
